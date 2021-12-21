@@ -1,0 +1,29 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### gradle
+/.gradle/
+build/
+
+### jvm
+*.class
+/natives/
+/.idea/
